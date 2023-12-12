@@ -1,0 +1,11 @@
+body{
+    background:#ddd;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color:#220e0e;
+    text-transform: uppercase;
+}
